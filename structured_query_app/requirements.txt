@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+streamlit
+pymysql
+pandas
+vanna
+sqlparse
+=======
+
+streamlit
+langchain
+langchain-community
+transformers
+sentence-transformers
+faiss-cpu
+pypdf
+torch
+>>>>>>> e10f60f304ed3919d0c6c38767e11889669ceb72
