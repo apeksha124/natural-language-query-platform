@@ -172,34 +172,6 @@ streamlit run app.py
 
 ---
 
-# Screenshots 📸
-
-## Document Q&A Interface
-
-![Document UI](Screenshots/ui_document.png)
-
----
-
-## PDF Upload & Question Answering
-
-![PDF Upload](Screenshots/pdf_upload.png)
-
----
-
-## Database Query Interface
-
-![Database UI](Screenshots/ui_database.png)
-
----
-
-## SQL Query Output
-
-![Output 1](Screenshots/output1.png)
-
-![Output 2](Screenshots/output2.png)
-
-
----
 
 # Key Learnings 📚
 
